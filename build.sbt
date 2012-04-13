@@ -4,7 +4,7 @@ name := "sbtsvn"
 
 organization := "com.github.xuwei_k"
 
-version := "0.1.0"
+version := "0.1.1-SNAPSHOT"
 
 libraryDependencies ++= Seq()
 
