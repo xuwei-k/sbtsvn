@@ -1,4 +1,4 @@
-# sbt svn plugin
+# sbt svn plugin [![Build Status](https://secure.travis-ci.org/xuwei-k/sbtsvn.png)](http://travis-ci.org/xuwei-k/sbtsvn)
 
 ## How to use
 
