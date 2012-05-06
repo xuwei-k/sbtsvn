@@ -1,0 +1,4 @@
+-> svn status
+> create-dummy-svn-directory
+> reload
+> svn status
