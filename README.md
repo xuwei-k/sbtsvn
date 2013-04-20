@@ -5,7 +5,7 @@
 `project/plugins.sbt`
 
 ```scala
-resolvers += "xuwei-k repo" at "http://xuwei-k.github.com/mvn"
+resolvers += "xuwei-k repo" at "http://xuwei-k.github.io/mvn"
 
 addSbtPlugin("com.github.xuwei_k" % "sbtsvn" % "0.1.0" )
 ```
